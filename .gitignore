@@ -5,6 +5,8 @@ __pycache__/
 .vscode
 .idea
 .env
+.swp
 
 db.sqlile3
-media/ 
+media/
+products/
